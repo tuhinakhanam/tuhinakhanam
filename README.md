@@ -16,7 +16,7 @@ GATE Preparation: Preparing for the GATE exam.
 
 Programming Languages: C, C++, HTML, CSS
 
-Frameworks & Tools: [List any frameworks or tools you're familiar with]
+Frameworks & Tools: Bootstrap, Tailwind CSS
 
 Platforms: LeetCode, Hackerrank, Codeforces
 
