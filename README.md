@@ -22,6 +22,7 @@ Platforms: LeetCode, Hackerrank, Codeforces
 📫 Connect with Me:
 
 LinkedIn: (https://www.linkedin.com/in/tuhina-khanam/)
+
 Feel free to explore my repositories and reach out if you'd like to collaborate or just chat about tech!
 
 Happy coding! 💻✨
