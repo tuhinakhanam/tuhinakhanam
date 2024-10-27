@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Tuhina Khanam!
 
-I’m a B.Tech student in Computer Science from Murshidabad, West Bengal. I have a passion for coding and love solving algorithmic challenges!
+I’m a B.Tech student in Computer Science. I have a passion for coding and love solving algorithmic challenges!
 
 ## 🌱 Currently Learning:
 
